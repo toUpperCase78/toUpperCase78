@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everyone 👋
+
+My name is Dogan Yigit (aka toUpperCase78). I'm an enthusiast of data science, visualization, machine learning; and still continue improving myself for this branch. Though it's a long journey to master thoroughly, I'm striving to read, code and learn new things as much as possible every day.
+
+_More information will be inserted in the upcoming days..._
 
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
