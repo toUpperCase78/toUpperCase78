@@ -8,8 +8,6 @@ With this motivation, I've aimed at becoming a professional _Data Scientist_. Fo
 
 Of course, this is not limited to just Data Science! Besides, there will be many other prograaming projects I've carried out with passion.
 
-_More information will be inserted in the upcoming days..._
-
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
