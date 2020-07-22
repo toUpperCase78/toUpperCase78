@@ -6,7 +6,7 @@ Since the last year, **Data Science** has attracted me the most. That's because,
 
 With this motivation, I've aimed at becoming a professional _Data Scientist_. For this purpose, I've taken several online courses related to Data Science and still proceeding to add new skills. To consolidate them further, I've been making analyses on real-life data or self-created ones. Luckily, GitHub has enabled me to present my works all around the world. Here, you can find them through my repos, and still I'd like to create more...
 
-Of course, this is not limited to just Data Science! Besides, there will be many other prograaming projects I've carried out with passion.
+Of course, this is not limited to just Data Science! Besides, there will be many other programming projects I've carried out with passion as individual repos.
 
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
