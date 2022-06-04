@@ -1,4 +1,4 @@
-### Hello everyone! 👋
+# Hello everyone! 👋
 
 My name is Dogan Yigit (a.k.a. toUpperCase78). I'm an enthusiast of **data science, visualization, machine/deep learning, computer vision** and lastly, **backend programming**. Though it's a long journey to master everything thoroughly, I'm still eager to read, code and learn new things every day.
 
