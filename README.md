@@ -8,7 +8,7 @@ With this motivation, I aimed for becoming a veteran _Data Scientist_ in a long 
 
 Besides, **Image Processing** is another branch I've been working on since last year. Thus, I'm getting my hands on these methods for some fascinating topics, such as image manipulations, object tracking, human pose estimation and gesture recognition.
 
-This year, I'm headed for **web programming** to understand how the frontend/backend sides are working together in a modern web application. Nonetheless, my focus point is on **the backend side** to run the methods efficiently and optimally when requests are received.
+This year, I'm headed for **web programming** to understand how the frontend/backend sides are working together in a modern web application. Nonetheless, my focus point is on **the backend side** to run methods related to Natural Language Processing (NLP) efficiently and optimally when requests are received.
 
 _Of course, this will not be limited to just aforementioned topics above! Besides, with my programming experience for over a decade, I'm planning to present other projects I carried out with passion as individual repos..._
 
