@@ -17,6 +17,12 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 [![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=toUpperCase78&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Languages
+
+![Python Logo](python_logo_small.png) ![Java Logo](java_logo_small.png) ![C Logo](c_language_logo_small.png) ![C++ Logo](cplusplus_logo_small.png)
+![C# Logo](csharp_logo_small.png) ![SQL Logo](sql_logo_small.png) ![JavaScript Logo](javascript_logo_small.png) ![R Logo](r_language_logo_small.png)
+![Ruby Logo](ruby_logo_small.png)
+
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
