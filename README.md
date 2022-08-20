@@ -12,9 +12,8 @@ This year, I'm headed for **web programming** to understand how the frontend/bac
 
 _Of course, this will not be limited to just aforementioned topics above! Besides, with my programming experience for over a decade, I'm planning to present other projects I carried out with passion as individual repos..._
 
-### My Social Links
-
 [![Twitter Logo](twitter_logo_small.png)](https://twitter.com/NewdayYigit)
+[![LinkedIn Logo](linkedin_logo_small.png)](https://www.linkedin.com/in/do%C4%9Fan-yi%C4%9Fit-yenig%C3%BCn-4b437467/)
 
 [![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=toUpperCase78&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
