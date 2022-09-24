@@ -19,9 +19,15 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 ### Languages
 
-![Python Logo](python_logo_small.png) ![Java Logo](java_logo_small.png) ![C Logo](c_language_logo_small.png) ![C++ Logo](cplusplus_logo_small.png)
-![C# Logo](csharp_logo_small.png) ![SQL Logo](sql_logo_small.png) ![JavaScript Logo](javascript_logo_small.png) ![R Logo](r_language_logo_small.png)
-![Ruby Logo](ruby_logo_small.png)
+![Python](python_logo_small.png) ![Java](java_logo_small.png) ![C](c_language_logo_small.png) ![C++](cplusplus_logo_small.png)
+![C#](csharp_logo_small.png) ![SQL](sql_logo_small.png) ![JavaScript](javascript_logo_small.png) ![R](r_language_logo_small.png)
+![Ruby](ruby_logo_small.png) ![Golang](go_language_logo_small.png)
+
+### IDEs
+
+![Visual Studio Code](visual_studio_code_logo_small.png) ![Netbeans](netbeans_logo_small.png) ![Eclipse](eclipse_logo_small.png)
+![Intellij Idea](intellij_idea_logo_small.png) ![Python Idle](python_idle_logo_small.png) ![Spyder](spyder_logo_small.png)
+![RStudio](rstudio_logo_small.png) ![Notepad++](notepadplusplus_logo_small.png)
 
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
