@@ -29,6 +29,12 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 ![Intellij Idea](intellij_idea_logo_small.png) ![Python Idle](python_idle_logo_small.png) ![Spyder](spyder_logo_small.png)
 ![RStudio](rstudio_logo_small.png) ![Notepad++](notepadplusplus_logo_small.png) ![Jupyter Notebook](jupyter_notebook_logo_small.png)
 
+### Libraries & Frameworks
+
+![Numpy](numpy_logo_small.png) ![Pandas](pandas_logo_small.png) ![Matplotlib](matplotlib_logo_small.png) ![Seaborn](seaborn_logo_small.png)
+![Scikit Learn](scikit_learn_logo_small.png) ![Tensorflow](tensorflow_logo_small.png) ![Keras](keras_logo_small.png)
+![OpenCV](opencv_logo_small.png) ![Spring Boot](spring_boot_logo_small.png)
+
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
