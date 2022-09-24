@@ -27,7 +27,7 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 ![Visual Studio Code](visual_studio_code_logo_small.png) ![Netbeans](netbeans_logo_small.png) ![Eclipse](eclipse_logo_small.png)
 ![Intellij Idea](intellij_idea_logo_small.png) ![Python Idle](python_idle_logo_small.png) ![Spyder](spyder_logo_small.png)
-![RStudio](rstudio_logo_small.png) ![Notepad++](notepadplusplus_logo_small.png)
+![RStudio](rstudio_logo_small.png) ![Notepad++](notepadplusplus_logo_small.png) ![Jupyter Notebook](jupyter_notebook_logo_small.png)
 
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
