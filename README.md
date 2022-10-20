@@ -33,7 +33,8 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 ![Numpy](numpy_logo_small.png) ![Pandas](pandas_logo_small.png) ![Matplotlib](matplotlib_logo_small.png) ![Seaborn](seaborn_logo_small.png)
 ![Scikit Learn](scikit_learn_logo_small.png) ![Tensorflow](tensorflow_logo_small.png) ![Keras](keras_logo_small.png)
-![OpenCV](opencv_logo_small.png) ![Spring Boot](spring_boot_logo_small.png)
+![OpenCV](opencv_logo_small.png) ![Spring Boot](spring_boot_logo_small.png) ![Lombok](lombok_logo_small.png)
+![Log4j](log4j_logo_small.png)
 
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
