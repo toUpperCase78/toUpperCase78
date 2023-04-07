@@ -2,6 +2,15 @@
 
 I'm an enthusiast of **data science, visualization, machine/deep learning, computer vision** and lastly, **backend programming**. Though it's a long journey to master everything thoroughly, I'm still eager to read, code and learn new things every day.
 
+What have I done so far in recent years:
+* **Programs:** Nearest neighor simulations for proximity queries on two-dimensional surface
+* **Data Science:** Taken several online sources, obtained certificates for exploration data analysis, data manipulation, data wrangling, data cleaning, data visualization and still proceeding to add things to my toolbox. In the meantime, making analyses based on real-life data to consolidate them further.
+* **Image Processing:** Image manipulations, object tracking, human pose estimation, gesture recognition
+* **Web Programming:** Understanding how frontend/backend sides are working together in a modern web application. Currently focusing on **backend** side more, doing Natural Language Processing (NLP) in the most efficient way, also machine learning model for value predictions. Furthermore, retrieving data accurately from database system with somewhat complex queries.
+
+_Besides, with my programming experience for over a decade, I'm planning to present more projects here with passion!_
+
+<!--
 In the branch of Computer Science, I'm heavily interested in **Data Science**. In today's world, vast amount of data is being produced every day in digital environment and in the meantime, analyses should be performed in order to reveal valuable knowledge. Furthermore, the most optimal time and space complexities for the methods are necessary for fulfilling the needs efficiently; that's why, it is vital to get the hang of the state-of-the-art techniques, especially to conquer **Big Data**.
 
 With this motivation, I aimed for becoming a veteran _Data Scientist_ in a long period. For this purpose, I've taken several online courses, obtained certificates and still proceeding to add things to my toolbox. To consolidate them further, I've been making analyses based on real-life data from time to time. Thankfully, GitHub has enabled me to present my works all around the world. Of course, I'd like to push forward and get even better in the future!
@@ -11,6 +20,7 @@ Besides, **Image Processing** is another branch I've worked on since 2021. Thus,
 For nearly 1 year, I'm headed for **web programming** to understand how the frontend/backend sides are working together in a modern web application. Nonetheless, my focus point is on **the backend side** to run methods related to **Natural Language Processing (NLP)** efficiently and optimally when requests are received.
 
 _Of course, this will not be limited to just aforementioned topics above! Besides, with my programming experience for over a decade, I'm planning to present other projects I carried out with passion as individual repos..._
+-->
 
 [![Twitter Logo](twitter_logo_small.png)](https://twitter.com/NewdayYigit)
 [![LinkedIn Logo](linkedin_logo_small.png)](https://www.linkedin.com/in/do%C4%9Fan-yi%C4%9Fit-yenig%C3%BCn-4b437467/)
