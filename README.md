@@ -3,7 +3,7 @@
 I'm an enthusiast of **data science, visualization, machine/deep learning, computer vision** and lastly, **backend programming**. Though it's a long journey to master everything thoroughly, I'm still eager to read, code and learn new things every day.
 
 What have I done so far in recent years:
-* **Programs:** Nearest neighor simulations for proximity queries on two-dimensional surface
+* **Programs:** Nearest neighbor simulations for proximity queries on two-dimensional surface (not limited to this one, many more to come)
 * **Data Science:** Taken several online sources, obtained certificates for exploration data analysis, data manipulation, data wrangling, data cleaning, data visualization and still proceeding to add things to my toolbox. In the meantime, making analyses based on real-life data to consolidate them further.
 * **Image Processing:** Image manipulations, object tracking, human pose estimation, gesture recognition
 * **Web Programming:** Understanding how frontend/backend sides are working together in a modern web application. Currently focusing on **backend** side more, doing Natural Language Processing (NLP) in the most efficient way, also machine learning model for value predictions. Furthermore, retrieving data accurately from database system with somewhat complex queries.
