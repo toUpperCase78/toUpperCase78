@@ -26,6 +26,7 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 [![LinkedIn](linkedin_logo_small.png)](https://www.linkedin.com/in/do%C4%9Fan-yi%C4%9Fit-yenig%C3%BCn-4b437467/)
 [![CodeWars](codewars_logo_small.png)](https://www.codewars.com/users/toUpperCase78)
 [![HackerRank](hackerrank_logo_small.png)](https://www.hackerrank.com/toUpperCase78)
+[![CodinGame](codingame_logo_small.png)](https://www.codingame.com/profile/85ffd602b2b991610a0f9bb50c44b8f04451631)
 
 [![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=toUpperCase78&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
