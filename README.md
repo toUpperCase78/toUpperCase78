@@ -37,6 +37,8 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 [![Yigit's GitHub stats](https://github-readme-stats.vercel.app/api?username=toUpperCase78&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Yigit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toUpperCase78&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Prog. Languages
 
 ![Python](python_logo_small.png) ![Java](java_logo_small.png) ![C](c_language_logo_small.png) ![C++](cplusplus_logo_small.png)
