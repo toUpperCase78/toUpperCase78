@@ -43,7 +43,7 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 ### IDEs
 
-![Visual Studio Code](visual_studio_code_logo_small.png) ![Netbeans](netbeans_logo_small.png) ![Eclipse](eclipse_logo_small.png)
+![Dev_C++](devcpp_logo_small.png) ![Visual Studio Code](visual_studio_code_logo_small.png) ![Netbeans](netbeans_logo_small.png) ![Eclipse](eclipse_logo_small.png)
 ![Intellij Idea](intellij_idea_logo_small.png) ![Python Idle](python_idle_logo_small.png) ![Spyder](spyder_logo_small.png)
 ![RStudio](rstudio_logo_small.png) ![Notepad++](notepadplusplus_logo_small.png) ![Jupyter Notebook](jupyter_notebook_logo_small.png)
 
@@ -62,6 +62,11 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 ### Databases
 
 ![MSSQL Server](mssql_server_logo_small.png) ![MySQL](mysql_logo_small.png) ![PostgreSQL](postgresql_logo_small.png) ![SQLite](sqlite_logo_small.png)
+
+### Other Programs
+
+![Oracle_VirtualBox](virtualbox_logo_small.png) ![DBeaver](dbeaver_logo_small.png) ![Wireshark](wireshark_logo_small.png) ![PingPlotter](pingplotter_logo_small.png) ![Putty](putty_logo_small.png)
+![Postman](postman_logo_small.png) ![FileZilla](filezilla_logo_small.png)
 
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
