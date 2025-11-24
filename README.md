@@ -59,6 +59,10 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 ![HTML5](html5_logo_small.png) ![CSS3](css3_logo_small.png)
 ![React](react_logo_small.png) ![Django](django_logo_small.png) ![Spring Boot](spring_boot_logo_small.png) ![HTMLUnit](htmlunit_logo_small.png) ![Playwright](playwright_logo_small.png)
 
+### Databases
+
+![MSSQL Server](mssql_server_logo_small.png) ![MySQL](mysql_logo_small.png) ![PostgreSQL](postgresql_logo_small.png) ![SQLite](sqlite_logo_small.png)
+
 <!--
 **toUpperCase78/toUpperCase78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
