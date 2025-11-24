@@ -50,12 +50,13 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 ### Libraries & Frameworks
 
 ![Numpy](numpy_logo_small.png) ![Pandas](pandas_logo_small.png) ![Matplotlib](matplotlib_logo_small.png) ![Seaborn](seaborn_logo_small.png)
-![Scikit Learn](scikit_learn_logo_small.png) ![Gensim](gensim_logo_small.png) ![Tensorflow](tensorflow_logo_small.png) ![Keras](keras_logo_small.png)
-![SHAP](shap_logo_small.png) ![OpenCV](opencv_logo_small.png) ![OpenAI](openai_logo_small.png) ![Lombok](lombok_logo_small.png)
+![NLTK](nltk_logo_small.png) ![Scikit Learn](scikit_learn_logo_small.png) ![Gensim](gensim_logo_small.png) ![Tensorflow](tensorflow_logo_small.png)
+![Keras](keras_logo_small.png) ![SHAP](shap_logo_small.png) ![OpenCV](opencv_logo_small.png) ![OpenAI](openai_logo_small.png) ![Lombok](lombok_logo_small.png)
 ![Log4j](log4j_logo_small.png)
 
 ### Web Programming
 
+![HTML5](html5_logo_small.png) ![CSS3](css3_logo_small.png)
 ![React](react_logo_small.png) ![Django](django_logo_small.png) ![Spring Boot](spring_boot_logo_small.png) ![HTMLUnit](htmlunit_logo_small.png) ![Playwright](playwright_logo_small.png)
 
 <!--
