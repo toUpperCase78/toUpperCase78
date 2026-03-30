@@ -28,7 +28,7 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 -->
 
 [![Twitter X](twitter_X_logo_small.png)](https://twitter.com/NewdayYigit)
-[![LinkedIn](linkedin_logo_small.png)](https://www.linkedin.com/in/do%C4%9Fan-yi%C4%9Fit-yenig%C3%BCn-4b437467/)
+[![LinkedIn](linkedin_logo_small.png)](https://www.linkedin.com/in/dogan-yigit-yenigun/)
 [![Upwork](upwork_logo_small.png)](https://www.upwork.com/freelancers/~01a3bcc6336a15d658)
 
 [![365 Data Science](365datascience_logo_small.png)](https://learn.365datascience.com/profile/dogan-yigit-yenigun-1/)
