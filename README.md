@@ -1,15 +1,15 @@
 # Hello everyone! I'm Dogan Yigit.👋 
 
-I'm an enthusiast of **data science, data visualization, machine/deep learning, computer vision, web programming (especially backend)**, and **artificial intelligence (AI)**. Though it's a long journey to master everything thoroughly, I'm still eager to read, code and learn new things as much as I can every day.
+I'm an enthusiast of **data science, data visualization, machine/deep learning, computer vision, web programming (backend)**, and **artificial intelligence (AI)**. Though it's a long journey to master everything thoroughly, I'm still eager to read, code and learn new things as much as I can every day.
 
 ### What have I've accomplished so far in recent years
 
-* **Softwares:** Nearest neighbor simulations for proximity queries on two-dimensional surface _(more different types will be uploaded here in the future)_
+* **Software:** Nearest neighbor simulations for proximity queries on two-dimensional surface _(more different types will be uploaded here in the future)_
 * **Data Science:** Data exploration (EDA) on selected datasets; feature engineering, data manipulation, wrangling, cleaning, visualization for gaining many insights.
 * **Machine Learning:** Train many different classification and regression models and used them to predict values (e.g. yearly salaries based on the personal attributes), later measured their performance & accuracy w.r.t. well-known metrics.
 * **Explainable AI:** Attempting to interrept (AI) models' execution steps with the tools that enable the explanation, such as LIME & SHAP.
 * **Image Processing:** Image manipulations, object tracking, human pose estimation, gesture recognition _(such repos will be uploaded here in the future)_
-* **Web Programming:** Understanding how frontend/backend sides are working together in a modern web application. Mostly focused on **backend** side, uitlizing Natural Language Processing (NLP) in the most efficient way, also machine learning models when necessary. Furthermore, retrieving data accurately from database system with somewhat complex queries. Furthermore, this includes Python projects _(Django)_ for different development experiences.
+* **Web Programming:** Understanding how frontend/backend sides are working together in a modern web application. Focused on **backend** side, uitlizing Natural Language Processing (NLP) in the most efficient way, also machine learning models when necessary. Furthermore, retrieving data accurately from database system with somewhat complex queries. Furthermore, this includes Python projects _(Django)_ for different development experiences.
 
 Recently, my focus is shifting into _Artificial Intelligence (AI)_ technologies. Hopefully, I'll be able to build my own AI-powered projects, with **RAGs, MCPs, agents, n8n**; whatever possible.
 
@@ -40,7 +40,7 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 <!-- [![Yigit's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toUpperCase78&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### Prog. Languages
+### Programming Languages
 
 ![Python](python_logo_small.png) ![Java](java_logo_small.png) ![C](c_language_logo_small.png) ![C++](cplusplus_logo_small.png)
 ![C#](csharp_logo_small.png) ![SQL](sql_logo_small.png) ![JavaScript](javascript_logo_small.png) ![R](r_language_logo_small.png)
@@ -56,17 +56,21 @@ _Of course, this will not be limited to just aforementioned topics above! Beside
 
 ![Numpy](numpy_logo_small.png) ![Pandas](pandas_logo_small.png) ![Matplotlib](matplotlib_logo_small.png) ![Seaborn](seaborn_logo_small.png)
 ![NLTK](nltk_logo_small.png) ![Scikit Learn](scikit_learn_logo_small.png) ![Gensim](gensim_logo_small.png) ![Tensorflow](tensorflow_logo_small.png)
-![Keras](keras_logo_small.png) ![SHAP](shap_logo_small.png) ![OpenCV](opencv_logo_small.png) ![OpenAI](openai_logo_small.png) ![Lombok](lombok_logo_small.png)
-![Log4j](log4j_logo_small.png)
+![PyTorch](pytorch_logo_small.png) ![Keras](keras_logo_small.png) ![SHAP](shap_logo_small.png) ![OpenCV](opencv_logo_small.png) 
+![OpenAI](openai_logo_small.png) ![Lombok](lombok_logo_small.png) ![Log4j](log4j_logo_small.png)
 
 ### Web Programming
 
-![HTML5](html5_logo_small.png) ![CSS3](css3_logo_small.png)
-![React](react_logo_small.png) ![Django](django_logo_small.png) ![Spring Boot](spring_boot_logo_small.png) ![HTMLUnit](htmlunit_logo_small.png) ![Playwright](playwright_logo_small.png)
+![HTML5](html5_logo_small.png) ![CSS3](css3_logo_small.png) ![React](react_logo_small.png) ![Django](django_logo_small.png) ![Spring Boot](spring_boot_logo_small.png) 
+![HTMLUnit](htmlunit_logo_small.png) ![Playwright](playwright_logo_small.png) ![Encore](encore_logo_small.png)
 
 ### Databases
 
 ![MSSQL Server](mssql_server_logo_small.png) ![MySQL](mysql_logo_small.png) ![PostgreSQL](postgresql_logo_small.png) ![SQLite](sqlite_logo_small.png)
+
+### Artificial Intelligence
+![OpenAI](openai_logo_small.png) ![Google Gemini](google_gemini_logo_small.png) ![Claude](anthropic_claude_logo_small.png) ![LM Studio](lm_studio_logo_small.png)
+![Ollama](ollama_logo_small.png) ![Cursor](cursor_logo_small.png) ![Lovable](lovable_logo_small.png) ![Zapier](zapier_logo_small.png)
 
 ### Other Programs
 
